@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+body{
+    background: white;
+    font-size: 18px;
+}
+.header {
+    height: 1000px;
+    width: 100%;
+    background-image: url(the-blowup-6OmweW3iy_s-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+nav {
+    display: flex;
+    padding: 2% 6%;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+}
+.navbar {
+    padding: 12px 12px;
+    position: relative;
+    justify-content: space-around;
+    font-size: 30px;
+    font-weight: 400;
+    color: #fff;
+    
+}
+.text-box {
+    padding: 2% 3%;
+    width: 26%;
+    color: #fff;
+    font-size: 90px;
+    position: absolute;
+    top: 30%;
+    margin-left: 33%;
+    border: 1px solid#fff;
+    letter-spacing: 2px;
+}
+.article1 {
+    width:  1000px;
+    font-size: 35px;
+    text-align: center;
+}
+
